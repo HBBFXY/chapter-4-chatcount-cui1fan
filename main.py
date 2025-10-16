@@ -5,7 +5,6 @@ other_count = 0
 
 input_str = input("请输入一行字符：")
 
-# 遍历每个字符进行统计
 for char in input_str:
     if char.isalpha():  
         letter_count += 1
