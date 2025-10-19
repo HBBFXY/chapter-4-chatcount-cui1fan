@@ -3,7 +3,7 @@ digit_count = 0
 space_count = 0
 other_count = 0
 
-input_str = input("请输入一行字符：")
+input_str = input("请输入一行字符：我爱python hhhhh 嘻嘻嘻")
 
 for char in input_str:
     if char.isalpha():  
